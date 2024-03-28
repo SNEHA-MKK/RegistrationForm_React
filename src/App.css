@@ -1,0 +1,24 @@
+body{
+  overflow-x: hidden;
+  background-image: linear-gradient(to right,blue,violet);
+  
+}
+
+.main{
+   height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  
+}
+
+.sub{
+  background-color: white;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.myBtn{
+  margin-left: 120px;
+}
